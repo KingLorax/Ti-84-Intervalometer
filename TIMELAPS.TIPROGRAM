@@ -1,0 +1,7 @@
+:Prompt N,I
+:For(X,1,N,1)
+:I
+:prgmTIMEWAIT
+:Send(N)
+:Disp X
+:End

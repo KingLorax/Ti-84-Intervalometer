@@ -1,0 +1,5 @@
+:Ans->A
+:ClockOn
+:startTmr->T
+:While checkTmr(T)<A
+:End
