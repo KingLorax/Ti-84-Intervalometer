@@ -13,7 +13,7 @@ Requirements
 
 How do I set this up?
 =====================
-In this repository you'll notice that we have two files [TIMELAPS]](https://raw.githubusercontent.com/KingLorax/Ti-84-Intervalometer/master/TIMELAPS.TIPROGRAM) and [TIMEWAIT](https://raw.githubusercontent.com/KingLorax/Ti-84-Intervalometer/master/TIMEWAIT.TIPROGRAM). What you need to do is write these two programs in your GDC.
+In this repository you'll notice that we have two files [TIMELAPS](https://raw.githubusercontent.com/KingLorax/Ti-84-Intervalometer/master/TIMELAPS.TIPROGRAM) and [TIMEWAIT](https://raw.githubusercontent.com/KingLorax/Ti-84-Intervalometer/master/TIMEWAIT.TIPROGRAM). What you need to do is write these two programs in your GDC.
 
 Once you're done copying you can proceed to use it.  
 
